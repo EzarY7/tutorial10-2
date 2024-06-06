@@ -15,7 +15,7 @@ The server handles multiple WebSocket connections concurrently and broadcasts me
 <h2>Experiment 2.2: Modifying port</h2>
 I modified the following snippets of code to change the port to 8080,
 <h3>client.rs</h3>
-<img src= "images/client_rs">
+<img src= "images/client_rs.jpg">
 <h3>server.rs</h3>
-<img src= "images/server_rs">
+<img src= "images/server_rs.jpg">
 The modified version uses the same Websocket.
